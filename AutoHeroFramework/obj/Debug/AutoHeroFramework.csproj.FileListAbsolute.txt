@@ -53,7 +53,6 @@ C:\Users\lizam\source\repos\AutoHeroFramework\AutoHeroFramework\bin\Debug\nunit.
 C:\Users\lizam\source\repos\AutoHeroFramework\AutoHeroFramework\bin\Debug\nunit.framework.xml
 C:\Users\lizam\source\repos\AutoHeroFramework\AutoHeroFramework\bin\Debug\WebDriver.xml
 C:\Users\lizam\source\repos\AutoHeroFramework\AutoHeroFramework\bin\Debug\WebDriver.Support.xml
-C:\Users\lizam\source\repos\AutoHeroFramework\AutoHeroFramework\obj\Debug\AutoHeroFramework.csprojAssemblyReference.cache
 C:\Users\lizam\source\repos\AutoHeroFramework\AutoHeroFramework\obj\Debug\AutoHeroFramework.csproj.CoreCompileInputs.cache
 C:\Users\lizam\source\repos\AutoHeroFramework\AutoHeroFramework\obj\Debug\AutoHeroFramework.csproj.CopyComplete
 C:\Users\lizam\source\repos\AutoHeroFramework\AutoHeroFramework\obj\Debug\AutoHeroFramework.dll
